@@ -572,7 +572,7 @@ npm run build
 
 ## Ссылки
 
-- Telegram канал: [@jantrish](https://t.me/jantrish)
+- Telegram канал: [Дневник киборга](https://t.me/ai_jantrish)
 - Основа: [ClaudeClaw](https://github.com/earlyaidopters/claudeclaw)
 
 ---
